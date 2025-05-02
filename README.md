@@ -70,6 +70,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/manuel26fa/PROASIR)
     - [Checkpoint](https://)
     - [Video final](https://)
+* **GRUPO 10:  Sistema de Trazabilidad y Consulta de Fabricación (STCF)** - Miguel Angel Serrano Martin 
+    - [Anteproyecto](https://www.notion.so/Sistema-de-Trazabilidad-y-Consulta-de-Fabricaci-n-STCF-1cd9d2bb08f7803c8706ded8205cda62?pvs=4)
+    - [Repositorio del proyecto](https://github.com/Mangelxd/-STCF-)
+    - [Checkpoint](https://)
+    - [Video final](https://)
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **7 de abril de 2025**
